@@ -9,4 +9,4 @@ Running of the program will be executed from the console (command line) with the
 java -jar ttp.jar pathToSqliteFile/nameOfTheFile.db<br>
 SQLite file doesn't have to already exist.<br>
 <br>
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/uros99/HotelInformationSystem/blob/main/uml-diagram.png)
